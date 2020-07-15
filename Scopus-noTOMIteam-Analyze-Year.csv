@@ -1,0 +1,31 @@
+﻿Scopus-247-Analyze-Year
+
+"Your query : (TITLE-ABS-KEY(""optical coherence tomography"" AND low-cost) AND ( EXCLUDE ( PREFNAMEAUID,""Dsouza, R.#55668050900"" ) OR EXCLUDE ( PREFNAMEAUID,""Hogan, J.#55758103000"" ) OR EXCLUDE ( PREFNAMEAUID,""Wilson, C.#55477612100"" ) OR EXCLUDE ( PREFNAMEAUID,""Neuhaus, K.#56086279700"" ) ) )"
+
+
+Number of results : 247
+
+"YEAR",
+"2019","4"
+"2018","36"
+"2017","22"
+"2016","24"
+"2015","21"
+"2014","18"
+"2013","16"
+"2012","16"
+"2011","18"
+"2010","12"
+"2009","10"
+"2008","6"
+"2007","4"
+"2006","4"
+"2005","10"
+"2004","4"
+"2003","9"
+"2002","6"
+"2001","1"
+"2000","1"
+"1999","1"
+"1998","2"
+"1997","2"
