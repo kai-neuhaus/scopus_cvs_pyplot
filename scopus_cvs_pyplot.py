@@ -2,7 +2,7 @@
 
 from matplotlib.pyplot import *
 from matplotlib import dates
-from scipy import *
+from numpy import *
 import csv
 import itertools as its
 rcParams['font.size']=16
